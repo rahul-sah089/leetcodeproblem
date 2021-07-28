@@ -1,0 +1,15 @@
+A Heap is a special tree data structure with the following properties:
+1) All the Node is greater/smaller than the decendent
+2) It must be a complete binary tree
+
+
+There are two type of heaps:
+1) Max Heap: 
+In Max-heap the key present at the root must be greatest among the key at all it's children.
+The same hold true for all sub-tree in that Binary Tree
+
+2) Min Heap:
+In Min-Heap that key present at the root must be smaller among the key at all it's children.
+The same property must be recursively true for all sub-trees in that Binary Tree
+
+

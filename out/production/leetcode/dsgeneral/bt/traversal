@@ -1,0 +1,6 @@
+Tree traversal is of two types:
+1) Breadth First Traversal
+2) Depth First Traversal/Level Order Traversal
+  -> PreOrder Order (Root Left Right)
+  -> Inorder order  (Left Root Right)
+  -> Post Order      (Left Right Root)

@@ -1,0 +1,23 @@
+Array, LInked List , Stack adn Queue are linear data structure
+Non linear data structure:
+Tree: Used to represent the Hierarchical Data Structure. It uses parent, child relationship to represent Hirerachy
+
+Graph : Used to represent the friend relationship. We cannot use tree if we have random between the codes.
+Graph data structure allows connection between any data structure
+
+Graph Data strucuture is represent by paisr of set
+
+G = (V,E) 
+
+V = {v1,v2,v3,v4,v5}
+
+E = {(v1,v2),(v1,v3),(v1,v4),(v1,v5),(v2,v3),(v2,v4)}
+
+Direct vs Undirected Graph
+
+Maximum Number of Edges in Directed Graph = |V| *(|V|-1)
+Maximum Number of Edges in Undirected Graph = [|V| * (|V|-1)]/2
+
+
+
+

@@ -1,0 +1,12 @@
+Stack:
+Code Operations:
+1) Push
+2) Pop
+3) isEmpty
+4) peek
+5) size
+
+Underflow: When pop() or peek() called on empty stack
+ Overflow: When push called on a Full Stack
+ 
+
